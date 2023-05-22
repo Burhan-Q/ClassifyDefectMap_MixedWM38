@@ -1,0 +1,157 @@
+# Class-index
+## false-negative count
+## false-positive count
+## true-positive count
+---
+0:
+  fn: 2
+  fp: 12
+  tp: 287
+1:
+  fn: 12
+  fp: 13
+  tp: 294
+2:
+  fn: 2
+  fp: 11
+  tp: 593
+3:
+  fn: 10
+  fp: 0
+  tp: 300
+4:
+  fn: 16
+  fp: 5
+  tp: 294
+5:
+  fn: 8
+  fp: 6
+  tp: 313
+6:
+  fn: 12
+  fp: 5
+  tp: 270
+7:
+  fn: 7
+  fp: 19
+  tp: 270
+8:
+  fn: 11
+  fp: 12
+  tp: 294
+9:
+  fn: 8
+  fp: 15
+  tp: 287
+10:
+  fn: 9
+  fp: 1
+  tp: 314
+11:
+  fn: 5
+  fp: 0
+  tp: 298
+12:
+  fn: 8
+  fp: 5
+  tp: 281
+13:
+  fn: 2
+  fp: 12
+  tp: 291
+14:
+  fn: 5
+  fp: 15
+  tp: 263
+15:
+  fn: 8
+  fp: 2
+  tp: 277
+16:
+  fn: 11
+  fp: 1
+  tp: 291
+17:
+  fn: 13
+  fp: 11
+  tp: 286
+18:
+  fn: 12
+  fp: 4
+  tp: 315
+19:
+  fn: 11
+  fp: 14
+  tp: 259
+20:
+  fn: 7
+  fp: 9
+  tp: 265
+21:
+  fn: 9
+  fp: 16
+  tp: 288
+22:
+  fn: 2
+  fp: 2
+  tp: 311
+23:
+  fn: 6
+  fp: 3
+  tp: 281
+24:
+  fn: 14
+  fp: 3
+  tp: 301
+25:
+  fn: 2
+  fp: 24
+  tp: 292
+26:
+  fn: 5
+  fp: 7
+  tp: 293
+27:
+  fn: 10
+  fp: 11
+  tp: 279
+28:
+  fn: 13
+  fp: 17
+  tp: 315
+29:
+  fn: 12
+  fp: 1
+  tp: 322
+30:
+  fn: 5
+  fp: 4
+  tp: 297
+31:
+  fn: 7
+  fp: 3
+  tp: 303
+32:
+  fn: 6
+  fp: 15
+  tp: 309
+33:
+  fn: 7
+  fp: 7
+  tp: 312
+34:
+  fn: 8
+  fp: 0
+  tp: 48
+35:
+  fn: 0
+  fp: 0
+  tp: 294
+36:
+  fn: 0
+  fp: 8
+  tp: 234
+37:
+  fn: 10
+  fp: 2
+  tp: 289

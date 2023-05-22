@@ -1,0 +1,68 @@
+# Single; total=9
+Normal: [0, 0, 0, 0, 0, 0, 0, 0] #N
+Center: [1, 0, 0, 0, 0, 0, 0, 0] #C
+Donut: [0, 1, 0, 0, 0, 0, 0, 0] #D
+Edge_Loc: [0, 0, 1, 0, 0, 0, 0, 0] #EL
+Edge_Ring: [0, 0, 0, 1, 0, 0, 0, 0] #ER
+Loc: [0, 0, 0, 0, 1, 0, 0, 0] #L
+Near_Full: [0, 0, 0, 0, 0, 1, 0, 0] #NF
+Scratch: [0, 0, 0, 0, 0, 0, 1, 0] #S
+Random: [0, 0, 0, 0, 0, 0, 0, 1] #R
+
+# Two-mixed; total=13
+C_EL: [1, 0, 1, 0, 0, 0, 0, 0] #Center + Edge_Loc
+C_ER: [1, 0, 0, 1, 0, 0, 0, 0] #Center + Edge_Ring
+C_L: [1, 0, 0, 0, 1, 0, 0, 0] #Center + Loc
+C_S: [1, 0, 0, 0, 0, 0, 1, 0] #Center + Scratch
+D_EL: [0, 1, 1, 0, 0, 0, 0, 0] #Donut + Edge_Loc
+D_ER: [0, 1, 0, 1, 0, 0, 0, 0] #Donut + Edge_ring
+D_L: [0, 1, 0, 0, 1, 0, 0, 0] #Donut + Loc
+D_S: [0, 1, 0, 0, 0, 0, 1, 0] #Donut + Scratch
+EL_L: [0, 0, 1, 0, 1, 0, 0, 0] #Edge_Loc + Loc
+EL_S: [0, 0, 1, 0, 0, 0, 1, 0] #Edge_Loc + Scratch
+ER_L: [0, 0, 0, 1, 1, 0, 0, 0] #Edge_Ring + Loc
+ER_S: [0, 0, 0, 1, 0, 0, 1, 0] #Edge_Ring + Scratch
+L_S: [0, 0, 0, 0, 1, 0, 1, 0] #Loc + Scratch
+
+# Three-mixed; total=12
+C_EL_L: [1, 0, 1, 0, 1, 0, 0, 0] #Center + Edge_Loc + Loc
+C_EL_S: [1, 0, 1, 0, 0, 0, 1, 0] #Center + Edge_Loc + Scratch
+C_ER_L: [1, 0, 0, 1, 1, 0, 0, 0] #Center + Edge_Ring + Loc
+C_ER_S: [1, 0, 0, 1, 0, 0, 1, 0] #Center + Edge_Ring + Scratch
+C_L_S: [1, 0, 0, 0, 1, 0, 1, 0] #Center + Loc + Scratch
+D_EL_L: [0, 1, 1, 0, 1, 0, 0, 0] #Donut + Edge_Loc + Loc
+D_EL_S: [0, 1, 1, 0, 0, 0, 1, 0] #Donut + Edge_Loc + Scratch
+D_ER_L: [0, 1, 0, 1, 1, 0, 0, 0] #Donut + Edge_Ring + Loc
+D_ER_S: [0, 1, 0, 1, 0, 0, 1, 0] #Donut + Edge_Ring + Scratch
+D_L_S: [0, 1, 0, 0, 1, 0, 1, 0] #Donut + Loc + Scratch
+EL_L_S: [0, 0, 1, 0, 1, 0, 1, 0] #Edge_Loc + Loc + Scratch
+ER_L_S: [0, 0, 0, 1, 1, 0, 1, 0] #Edge_Ring + Loc + Scratch
+
+# Four-mixed; total=4
+C_L_EL_S: [1, 0, 1, 0, 1, 0, 1, 0] #Center + Loc + Edge_Loc + Scratch
+C_L_ER_S: [1, 0, 0, 1, 1, 0, 1, 0] #Center + Loc + Edge_Ring + Scratch
+D_L_EL_S: [0, 1, 1, 0, 1, 0, 1, 0] #Donut + Loc + Edge_Loc + Scratch
+D_L_ER_S: [0, 1, 0, 1, 1, 0, 1, 0] #Donut + Loc + Edge_Ring + Scratch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
